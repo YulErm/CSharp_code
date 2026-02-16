@@ -1,0 +1,15 @@
+C:\Users\julia\Desktop\all\study\3year_2023-2024\C#\Assignment1\Assignment1\bin\Release\net6.0\Assignment1.exe
+C:\Users\julia\Desktop\all\study\3year_2023-2024\C#\Assignment1\Assignment1\bin\Release\net6.0\Assignment1.deps.json
+C:\Users\julia\Desktop\all\study\3year_2023-2024\C#\Assignment1\Assignment1\bin\Release\net6.0\Assignment1.runtimeconfig.json
+C:\Users\julia\Desktop\all\study\3year_2023-2024\C#\Assignment1\Assignment1\bin\Release\net6.0\Assignment1.dll
+C:\Users\julia\Desktop\all\study\3year_2023-2024\C#\Assignment1\Assignment1\bin\Release\net6.0\Assignment1.pdb
+C:\Users\julia\Desktop\all\study\3year_2023-2024\C#\Assignment1\Assignment1\obj\Release\net6.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Desktop\all\study\3year_2023-2024\C#\Assignment1\Assignment1\obj\Release\net6.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\julia\Desktop\all\study\3year_2023-2024\C#\Assignment1\Assignment1\obj\Release\net6.0\Assignment1.AssemblyInfo.cs
+C:\Users\julia\Desktop\all\study\3year_2023-2024\C#\Assignment1\Assignment1\obj\Release\net6.0\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\all\study\3year_2023-2024\C#\Assignment1\Assignment1\obj\Release\net6.0\Assignment1.dll
+C:\Users\julia\Desktop\all\study\3year_2023-2024\C#\Assignment1\Assignment1\obj\Release\net6.0\refint\Assignment1.dll
+C:\Users\julia\Desktop\all\study\3year_2023-2024\C#\Assignment1\Assignment1\obj\Release\net6.0\Assignment1.pdb
+C:\Users\julia\Desktop\all\study\3year_2023-2024\C#\Assignment1\Assignment1\obj\Release\net6.0\Assignment1.genruntimeconfig.cache
+C:\Users\julia\Desktop\all\study\3year_2023-2024\C#\Assignment1\Assignment1\obj\Release\net6.0\ref\Assignment1.dll
+C:\Users\julia\Desktop\all\study\3year_2023-2024\C#\Assignment1\Assignment1\bin\Release\net6.0\library_records.csv
