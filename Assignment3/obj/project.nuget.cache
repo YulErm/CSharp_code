@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jk0AE9F6dOPl1Ddq9aqRNECAc22TcNeXuBIm6CovCgndeKXbgBRYmYq2fkilEUlX9MhPDwPdRMsTzjZ3wAOmBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vladyslav\\OneDrive - Technicka univerzita v Kosiciach\\TUKE II Year\\C# Help\\ass3\\ass3\\Ass3\\Assignment3\\Assignment3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://hades.cit.fei.tuke.sk:8080/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
